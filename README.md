@@ -5,3 +5,5 @@
 - 复选框切换
 - 颜色选择：提供 Black（黑色）、Red（红色）、Blue（蓝色）单选按钮选择
 - 文本显示：实时预览字体样式和颜色效果 - 按钮操作：包含退出、确定、清空等基本功能按钮
+效果图如图所示
+<img width="534" height="460" alt="image" src="https://github.com/user-attachments/assets/5318ed14-4fa6-4546-9e50-ad9d7cb1d455" />
